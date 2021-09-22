@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Erin Frame"
 description              : &description "Global Health Metrics PhD Student and Researcher on the COVID-19 Forecasting team at IHME "
 url                      : https://ehulland.github.io # the base hostname & protocol for your site e.g. "https://ehulland.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "ehulland.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "ehulland.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : &name "Erin (Hulland) Frame"
-  avatar           : "/images/erin-frame.png"
+  avatar           : "erin-frame.jpg"
   bio              : &description "Global Health PhD Student and COVID-19 Researcher at IHME"
   location         : &location "Seattle, WA"
   employer         : "Institute for Health Metrics and Evaluation"
