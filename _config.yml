@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : &name "Erin (Hulland) Frame"
-  avatar           : "profile.png"
+  avatar           : "/images/profile.png"
   bio              : &description "Global Health PhD Student and COVID-19 Researcher at IHME"
   location         : &location "Seattle, WA"
   employer         : "Institute for Health Metrics and Evaluation"
