@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &erin.hulland
+  username               : &'erin.hulland'
 facebook:
   username               :
   app_id                 :
