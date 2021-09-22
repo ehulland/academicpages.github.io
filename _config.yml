@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Erin (Hulland) Frame, MPH"
+title                    : "Erin Frame, MPH"
 title_separator          : "-"
 name                     : &name "Erin Frame"
 description              : &description "Global Health Metrics PhD Student and Researcher on the COVID-19 Forecasting team at IHME "
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : &name "Erin Frame"
+  name             : &name "Erin (Hulland) Frame"
   avatar           : "profile.png"
   bio              : &description "Global Health PhD Student and COVID-19 Researcher at IHME"
   location         : &location "Seattle, WA"
