@@ -22,7 +22,7 @@ Relevant work experience
     * Researcher, COVID-19 Pandemics Team: 09/2020 - present
     * Pre-doctoral researcher, Local Burden of Disease Pandemics Team: 09/2018 - 09/2020
 
-* 06/2020 - 09/2020 
+* 06/2020 - 09/2020
   * Bill and Melinda Gates Foundation, Seattle WA
     * Summer Associate, Global Development Division, Polio Eradication Team
 
@@ -61,7 +61,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Conferences and Talks
+Conferences and talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -75,4 +75,3 @@ Professional Organizations
   * American Statistical Association (Member)
 * 2018 – present
   * American Society for Tropical Medicine and Hygiene (Member)
-
