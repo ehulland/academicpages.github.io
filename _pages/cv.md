@@ -69,9 +69,9 @@ Conferences and Talks
   
 Professional Organizations
 ======
-* 2014 – 2015
+* 2014 - 2015
   * Society of Behavioral Medicine (Member)
-* 2015 – 2017
+* 2015 - 2017
   * American Statistical Association (Member)
 * 2018 – present
   * American Society for Tropical Medicine and Hygiene (Member)
