@@ -37,14 +37,14 @@ Relevant work experience
 Skills
 ======
 * Languages
-  * English (Native Tongue)
+  * English (Native tongue)
   * French (Advanced)
-  * Spanish (Low Intermediate)
+  * Spanish (Low intermediate)
 * Software
-  * R software (Advanced)
-  * Microsoft Excel, Word, Office, PowerPoint (Advanced)
-  * SAS statistical software and SAS-callable SUDAAN (Advanced)
-  * SEERStat (Advanced)
+  * R (Advanced)
+  * Microsoft Excel, Office, Word, and Powerpoint (Advanced)
+  * SAS and SAS-callable SUDAAN (Advanced)
+  * SEER-Stat (Advanced
   * EpiSample (Advanced)
   * JoinPoint (Intermediate)
   * ArcGIS (Intermediate)
@@ -72,6 +72,6 @@ Professional Organizations
 * 2014 - 2015
   * Society of Behavioral Medicine (Member)
 * 2015 - 2017
-  * American Statistical Association (Member)
-* 2018 – present
+  * American Statitistical Association (Member)
+* 2018 - present
   * American Society for Tropical Medicine and Hygiene (Member)
