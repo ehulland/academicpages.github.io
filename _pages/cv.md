@@ -55,7 +55,7 @@ Skills
   * Python (Basic)
   * SQL (Basic)
 
-Publications
+Selected publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
