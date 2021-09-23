@@ -44,7 +44,7 @@ Skills
   * R software (Advanced)
   * Microsoft Excel, Word, Office, PowerPoint (Advanced)
   * SAS statistical software and SAS-callable SUDAAN (Advanced)
-  * SEER*Stat (Advanced)
+  * SEERStat (Advanced)
   * EpiSample (Advanced)
   * JoinPoint (Intermediate)
   * ArcGIS (Intermediate)
