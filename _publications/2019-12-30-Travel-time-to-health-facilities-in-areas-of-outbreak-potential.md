@@ -1,0 +1,14 @@
+---
+title: "Travel time to health facilities in areas of outbreak potential: maps for guiding local preparedness and response"
+collection: publications
+permalink: /publication/2019-12-30-Travel-time-to-health-facilities-in-areas-of-outbreak-potential
+excerpt: 'Repeated outbreaks of emerging pathogens underscore the need for preparedness plans to prevent, detect, and respond. As countries develop and improve National Action Plans for Health Security, addressing subnational variation in preparedness is increasingly important. One facet of preparedness and mitigating disease transmission is health facility accessibility, linking infected persons with health systems and vice versa. Where potential patients can access care, local facilities must ensure they can appropriately diagnose, treat, and contain disease spread to prevent secondary transmission; where patients cannot readily access facilities, alternate plans must be developed. Here, we use travel time to link facilities and populations at risk of viral hemorrhagic fevers (VHFs) and identify spatial variation in these respective preparedness demands.'
+date: 2019-12-30
+venue: 'BMC Medicine'
+paperurl: 'https://link.springer.com/article/10.1186/s12916-019-1459-6'
+citation: 'Hulland, E.N., Wiens, K.E., Shirude, S. et al. Travel time to health facilities in areas of outbreak potential: maps for guiding local preparedness and response. BMC Med 17, 232 (2019). https://doi.org/10.1186/s12916-019-1459-6'
+---
+Repeated outbreaks of emerging pathogens underscore the need for preparedness plans to prevent, detect, and respond. As countries develop and improve National Action Plans for Health Security, addressing subnational variation in preparedness is increasingly important. One facet of preparedness and mitigating disease transmission is health facility accessibility, linking infected persons with health systems and vice versa. Where potential patients can access care, local facilities must ensure they can appropriately diagnose, treat, and contain disease spread to prevent secondary transmission; where patients cannot readily access facilities, alternate plans must be developed. Here, we use travel time to link facilities and populations at risk of viral hemorrhagic fevers (VHFs) and identify spatial variation in these respective preparedness demands.
+[Download paper here](http://ehulland.github.io/files/Hulland_2019_BMC_Medicine.pdf)
+
+Recommended citation: Hulland, E.N., Wiens, K.E., Shirude, S. et al. Travel time to health facilities in areas of outbreak potential: maps for guiding local preparedness and response. BMC Med 17, 232 (2019). https://doi.org/10.1186/s12916-019-1459-6

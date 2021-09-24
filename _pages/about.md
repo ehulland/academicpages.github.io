@@ -15,10 +15,11 @@ Experience in geospatial analysis, forecasting, survey design and analysis, and 
 
 Extracurricular activities include spending time with my husband, two dogs, and cat, hiking the PNW mountains and kayaking the local waters, crafting and group fitness classes, and discovering new local breweries.
 
-
 Relevant coursework includes
 
 * Time series analysis
 * Maximum likelihood estimation
+
+Full CV available [here](http://ehulland.github.io/files/CV_Frame_2021.pdf)
 
 
