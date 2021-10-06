@@ -1,11 +1,11 @@
 ---
-title: "Parameters associated with design effect of child anthropometry indicators in small-scale field surveys"
+title: "Patterns of posttraumatic stress symptoms among international humanitarian aid workers"
 collection: publications
-permalink: /publication/2016-11-28-Parameters-associated-with-design-effect-of-child-anthropometry-indicators-in-small-scale-field-surveys
-excerpt: 'Cluster surveys provide rapid but representative estimates of key nutrition indicators in humanitarian crises. For these surveys, an accurate estimate of the design effect is critical to calculate a sample size that achieves adequate precision with the minimum number of sampling units. This paper describes the variability in design effect for three key nutrition indicators measured in small-scale surveys and models the association of design effect with parameters hypothesized to explain this variability.'
-date: 2016-11-28
-venue: 'Emerging Themes in Epidemiology'
-paperurl: 'https://ete-online.biomedcentral.com/articles/10.1186/s12982-016-0054-y#citeas'
+permalink: /publication/2020-12-14-Patterns-of-posttraumatic-stress-symptoms-among-aid-workers
+excerpt: ''
+date: 2020-12-14
+venue: 'Traumatology'
+paperurl: ''
 citation: 'Hulland, E.N., Blanton, C.J., Leidman, E.Z. et al. Parameters associated with design effect of child anthropometry indicators in small-scale field surveys. Emerg Themes Epidemiol 13, 13 (2016). https://doi.org/10.1186/s12982-016-0054-y'
 ---
 Background
