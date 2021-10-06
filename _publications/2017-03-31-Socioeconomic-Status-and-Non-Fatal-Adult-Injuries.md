@@ -1,7 +1,7 @@
 ---
 title: "Socioeconomic Status and Non-Fatal Adult Injuries in Selected Atlanta (Georgia USA) Hospitals"
 collection: publications
-permalink: /publication/2017-03-31-Socioeconomic-Status-and-Non-Fatal-Adult-Injuries-in-Selected-Atlanta-Georgia-USA-Hospitals
+permalink: /publication/2017-03-31-Socioeconomic-Status-and-Non-Fatal-Adult
 excerpt: 'Injury mortality data for adults in the United States and other countries consistently show higher mortality for those with lower socioeconomic status (SES). Data are sparse regarding the role of SES among adult, non-fatal US injuries. The current study estimated non-fatal injury risk by household income using hospital emergency department (ED) visits.'
 date: 2017-03-31
 venue: 'Prehospital and Disaster Medicine'

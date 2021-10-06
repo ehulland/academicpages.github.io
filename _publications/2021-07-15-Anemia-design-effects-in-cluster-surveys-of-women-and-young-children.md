@@ -1,7 +1,7 @@
 ---
 title: "Anemia design effects in cluster surveys of women and young children in refugee settings"
 collection: publications
-permalink: /publication/2021-07-15-Anemia-design-effects-in-cluster-surveys-of-women-and-young-children-in-refugee-settings
+permalink: /publication/2021-07-15-Anemia-design-effects-in-cluster-surveys-of-women-and-young-children
 excerpt: 'Nutrition surveys in many refugee settings routinely estimate anemia prevalence in high-risk population groups. Given the lack of information on anemia design effects (DEFF) observed in surveys in these settings, the goal of this paper is to better understand the magnitude and distribution of DEFFs and intracluster correlation coefficients (ICCs) in order to inform future survey design.'
 date: 2021-07-15
 venue: 'PLOS One'
