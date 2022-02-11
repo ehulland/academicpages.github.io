@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+This website is still under construction - sorry for the delay!
+
 Fourth-year PhD student in [Global Health - Metrics Track](https://globalhealth.washington.edu/education-training/phd-gh) at the University of Washington, advised by [Dr. David Pigott](https://globalhealth.washington.edu/faculty/david-pigott).
 Experience in international health in humanitarian settings with a strong interest in data science, statistics, and geospatial analyses.
 Research goals include improving pandemic preparedness modeling and response for diseases of epidemic potential.
@@ -19,6 +21,8 @@ Relevant coursework includes
 
 * Time series analysis
 * Maximum likelihood estimation
+* Hierarchical modeling
+* Geospatial analysis
 
 Full CV available [here](http://ehulland.github.io/files/CV_Frame_2021.pdf)
 
