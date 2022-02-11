@@ -6,7 +6,7 @@ excerpt: 'National rates of COVID-19 infection and fatality have varied dramatic
 date: 2020-12-14
 venue: 'Traumatology'
 paperurl: 'https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)00172-6/fulltext'
-citation: ''
+citation: 'Pandemic preparedness and COVID-19: an exploratory analysis of infection and fatality rates, and contextual factors associated with preparedness in 177 countries, from Jan 1, 2020, to Sept 30, 2021. Bollyky, Thomas J et al. The Lancet, Volume 0, Issue 0'
 ---
 Background
 National rates of COVID-19 infection and fatality have varied dramatically since the onset of the pandemic. Understanding the conditions associated with this cross-country variation is essential to guiding investment in more effective preparedness and response for future pandemics.
