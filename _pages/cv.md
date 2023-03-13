@@ -13,13 +13,14 @@ Education
 ======
 * B.S. in Biology and French, Statistics Minor, Pennsylvania State University, 2012
 * MPH in Biostatistics, Emory University Rollins School of Public Health, 2014
-* Ph.D in Global Health - Metrics Track, Univeristy of Washington, 2022 (expected)
+* Ph.D in Global Health - Metrics Track, Univeristy of Washington, 2023 (expected)
 
 Relevant work experience
 ======
 * 09/2018 - present
   * Institute for Health Metrics and Evaluation, Seattle WA
-    * Researcher, COVID-19 Pandemics Team: 09/2020 - present
+    * Researcher, Pandemics Team: 01/2023 - present
+    * Researcher, COVID-19 Pandemics Team: 09/2020 - 12/2022
     * Pre-doctoral researcher, Local Burden of Disease Pandemics Team: 09/2018 - 09/2020
 
 * 06/2020 - 09/2020

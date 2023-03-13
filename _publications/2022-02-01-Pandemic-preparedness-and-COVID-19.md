@@ -6,7 +6,7 @@ excerpt: 'National rates of COVID-19 infection and fatality have varied dramatic
 date: 2022-02-01
 venue: 'The Lancet'
 paperurl: 'https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)00172-6/fulltext'
-citation: 'Pandemic preparedness and COVID-19: an exploratory analysis of infection and fatality rates, and contextual factors associated with preparedness in 177 countries, from Jan 1, 2020, to Sept 30, 2021. Bollyky, Thomas J et al. The Lancet, Volume 0, Issue 0'
+citation: 'Pandemic preparedness and COVID-19: an exploratory analysis of infection and fatality rates, and contextual factors associated with preparedness in 177 countries, from Jan 1, 2020, to Sept 30, 2021. Bollyky, Thomas J and Hulland, Erin N. et al. The Lancet, Volume 399, Issue 10334, 1489 - 1512'
 ---
 Background
 National rates of COVID-19 infection and fatality have varied dramatically since the onset of the pandemic. Understanding the conditions associated with this cross-country variation is essential to guiding investment in more effective preparedness and response for future pandemics.
@@ -20,4 +20,5 @@ The factors that explained the most variation in cumulative rates of SARS-CoV-2 
 Interpretation
 Efforts to improve pandemic preparedness and response for the next pandemic might benefit from greater investment in risk communication and community engagement strategies to boost the confidence that individuals have in public health guidance. Our results suggest that increasing health promotion for key modifiable risks is associated with a reduction of fatalities in such a scenario.
 
-Suggested Citation: Bollyky, Thomas J. and Hulland, Erin N. et al. Pandemic preparedness and COVID-19: an exploratory analysis of infection and fatality rates, and contextual factors associated with preparedness in 177 countries, from Jan 1, 2020, to Sept 30, 2021. The Lancet, Volume 0, Issue 0
+Suggested Citation: Bollyky, Thomas J. and Hulland, Erin N. et al. Pandemic preparedness and COVID-19: an exploratory analysis of infection and fatality rates, and contextual factors associated with preparedness in 177 countries, from Jan 1, 2020, to Sept 30, 2021. The Lancet, Volume 399, Issue 10334, 1489 - 1512
+
