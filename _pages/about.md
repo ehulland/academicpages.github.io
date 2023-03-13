@@ -22,6 +22,6 @@ Relevant coursework includes
 * Hierarchical modeling
 * Geospatial analysis
 
-Full CV available [here](http://ehulland.github.io/files/CV Frame 2023.pdf)
+Full CV available [here](http://ehulland.github.io/files/CV Frame 2023 - website.pdf)
 
 
