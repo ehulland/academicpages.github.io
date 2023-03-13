@@ -8,4 +8,4 @@ date: 2014-04-26
 location: "Philadelphia, Pennsylvania"
 ---
 
-Presentation on work from our [manuscript](http://ehulland.github.io/files/Hulland_2014_Psychology_Health_Medicine.pdf) assessing association between stress levels and coping strategy use as predictors of sexual risk behavior engagement over 24 months among African-American adolescent females enrolled in an STI/HIV risk-reduction intervention program
+Presentation on work from our [manuscript](https://www.tandfonline.com/doi/abs/10.1080/13548506.2014.951369) assessing association between stress levels and coping strategy use as predictors of sexual risk behavior engagement over 24 months among African-American adolescent females enrolled in an STI/HIV risk-reduction intervention program
