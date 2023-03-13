@@ -82,9 +82,9 @@ analytics:
 author:
   name             : &name "Erin (Hulland) Frame"
   avatar           : &avatar "erin-frame.jpg"
-  bio              : &description "Global Health PhD Student and COVID-19 Researcher at IHME"
+  bio              : &description "Global Health PhD Candidate and Researcher at IHME"
   location         : &location "Seattle, WA"
-  employer         : "Institute for Health Metrics and Evaluation"
+  employer         : "IHME"
   pubmed           : 
   googlescholar    : &scholar "http://scholar.google.com/citations?user=CA3Z5zcAAAAJ&hl=en&oi=ao"
   email            :
