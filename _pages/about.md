@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Fifth-year PhD candidate in [Global Health - Metrics Track](https://globalhealth.washington.edu/education-training/phd-gh) at the University of Washington, advised by [Dr. David Pigott](https://globalhealth.washington.edu/faculty/david-pigott).
-Experience in international health in humanitarian settings with a strong interest in data science, statistics, and geospatial analyses.
+Recent PhD graduate in [Global Health - Metrics Track](https://globalhealth.washington.edu/education-training/phd-gh) at the University of Washington, advised by [Dr. David Pigott](https://globalhealth.washington.edu/faculty/david-pigott) focusing on pandemic preparedness and the response to COVID-19. 
+Experience in international health, pandemic preparedness, and outbreak response with a strong interest in data science, statistics, and geospatial analyses.
 Research goals include improving pandemic preparedness modeling and response for diseases of epidemic potential.
 Experience in geospatial analysis, forecasting, survey design and analysis, and hierarchical modeling. Proficient in R, SAS, Git processes, and am learning Python.
 

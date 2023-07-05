@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Biology and French, Statistics Minor, Pennsylvania State University, 2012
 * MPH in Biostatistics, Emory University Rollins School of Public Health, 2014
-* Ph.D in Global Health - Metrics Track, Univeristy of Washington, 2023 (expected)
+* Ph.D in Global Health - Metrics Track, Univeristy of Washington, 2023
 
 Relevant work experience
 ======

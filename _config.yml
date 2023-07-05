@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Erin Frame, MPH"
+title                    : "Erin Frame, MPH, PhD"
 title_separator          : "-"
 name                     : &name "Erin Frame"
-description              : &description "Global Health Metrics PhD Candidate and Researcher at IHME "
+description              : &description "Global Health Metrics PhD and Researcher at IHME "
 url                      : https://ehulland.github.io # the base hostname & protocol for your site e.g. "https://ehulland.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ehulland.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : &name "Erin (Hulland) Frame"
   avatar           : &avatar "erin-frame.jpg"
-  bio              : &description "Global Health PhD Candidate and Researcher at IHME"
+  bio              : &description "Global Health Metrics PhD and Researcher at IHME"
   location         : &location "Seattle, WA"
   employer         : "IHME"
   pubmed           : 
