@@ -8,19 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Recent PhD graduate in [Global Health - Metrics Track](https://globalhealth.washington.edu/education-training/phd-gh) at the University of Washington, advised by [Dr. David Pigott](https://globalhealth.washington.edu/faculty/david-pigott) focusing on pandemic preparedness and the response to COVID-19. 
-Experience in international health, pandemic preparedness, and outbreak response with a strong interest in data science, statistics, and geospatial analyses.
-Research goals include improving pandemic preparedness modeling and response for diseases of epidemic potential.
-Experience in geospatial analysis, forecasting, survey design and analysis, and hierarchical modeling. Proficient in R, SAS, Git processes, and am learning Python.
+* Current postdoctoral researcher consultant in the [Majumder Lab](https://lab.maimunamajumder.com/) at Boston Children's Hospital and Harvard Medical School, focusing on the role of trust (and mistrust) in society and the role on pandemic preparedness and response. 
 
-Extracurricular activities include spending time with my husband, daughter, two dogs, and cat, hiking the PNW mountains and kayaking the local waters, crafting, group fitness classes, and discovering new local breweries.
+* Recent PhD graduate in [Global Health - Metrics Track](https://globalhealth.washington.edu/education-training/phd-gh) at the University of Washington, advised by [Dr. David Pigott](https://globalhealth.washington.edu/faculty/david-pigott) focusing on pandemic preparedness and the response to COVID-19. 
 
-Relevant coursework includes
+* Experience in international health, pandemic preparedness, and outbreak response with a strong interest in data science, statistics, and geospatial analyses.
 
-* Time series analysis
-* Maximum likelihood estimation
-* Hierarchical modeling
-* Geospatial analysis
+* Research goals include improving pandemic preparedness modeling and response for diseases of epidemic potential.
+Experience in geospatial analysis, forecasting, survey design and analysis, and hierarchical modeling. Proficient in R, SAS, Git processes, some experience in Python. 
 
-Full CV available upon request
+* Relevant coursework includes: Time series analysis, Maximum likelihood estimation Hierarchical modeling, Geospatial analysis.
+
+* Extracurricular activities include spending time with my husband, daughter, and two dogs exploring our new residence in Utrecht, Netherlands.
+
+* Full CV available upon request
 

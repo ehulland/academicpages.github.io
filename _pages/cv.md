@@ -13,11 +13,15 @@ Education
 ======
 * B.S. in Biology and French, Statistics Minor, Pennsylvania State University, 2012
 * MPH in Biostatistics, Emory University Rollins School of Public Health, 2014
-* Ph.D in Global Health - Metrics Track, Univeristy of Washington, 2023
+* Ph.D in Global Health - Metrics Track, University of Washington, 2023
 
 Relevant work experience
 ======
-* 09/2018 - present
+* 10/2023 - present
+  * Computational Health Informatics Program, Boston Children's Hospital | Harvard Medical School, Boston, MA
+    * Postdoctoral Research Consultant, Majumder Lab: 10/2023-present
+
+* 09/2018 - 09/2023
   * Institute for Health Metrics and Evaluation, Seattle WA
     * Researcher, Pandemics Team: 01/2023 - present
     * Researcher, COVID-19 Pandemics Team: 09/2020 - 12/2022
@@ -73,6 +77,8 @@ Professional Organizations
 * 2014 - 2015
   * Society of Behavioral Medicine (Member)
 * 2015 - 2017
-  * American Statitistical Association (Member)
-* 2018 - present
+  * American Statistical Association (Member)
+* 2018 - 2024
   * American Society for Tropical Medicine and Hygiene (Member)
+* 2023-2024
+  * Society for Epidemiologic Research (Member)
