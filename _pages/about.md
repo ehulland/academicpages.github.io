@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* Current postdoctoral research consultant in the [Majumder Lab](https://lab.maimunamajumder.com/) at Boston Children's Hospital and Harvard Medical School, focusing on the role of trust (and mistrust) in society and the role on pandemic preparedness and response. 
+* Current postdoctoral research consultant in the [Majumder Lab](https://lab.maimunamajumder.com/) at Boston Children's Hospital and Harvard Medical School, focusing on the role of trust (and mistrust) in society and on pandemic preparedness and response. 
 
 * Recent PhD graduate in [Global Health - Metrics Track](https://globalhealth.washington.edu/education-training/phd-gh) at the University of Washington, advised by [Dr. David Pigott](https://globalhealth.washington.edu/faculty/david-pigott) focusing on pandemic preparedness and the response to COVID-19. 
 

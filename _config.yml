@@ -84,7 +84,7 @@ author:
   avatar           : &avatar "erin-frame.jpg"
   bio              : &description "Postdoctoral Research Consultant at Boston Children's Hospital"
   location         : &location "Utrecht, Netherlands"
-  employer         : "Boston Children's Hospital & Harvard Medical School"
+  employer         : 
   pubmed           : 
   googlescholar    : &scholar "http://scholar.google.com/citations?user=CA3Z5zcAAAAJ&hl=en&oi=ao"
   email            :
