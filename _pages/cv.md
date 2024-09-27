@@ -18,7 +18,7 @@ Education
 Relevant work experience
 ======
 * 10/2023 - present
-  * Computational Health Informatics Program, Boston Children's Hospital | Harvard Medical School, Boston, MA
+  * Computational Health Informatics Program, Boston Children's Hospital & Harvard Medical School, Boston, MA
     * Postdoctoral Research Consultant, Majumder Lab: 10/2023-present
 
 * 09/2018 - 09/2023
