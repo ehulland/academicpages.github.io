@@ -19,7 +19,7 @@ Experience in geospatial analysis, forecasting, survey design and analysis, and 
 
 * Relevant coursework includes: Time series analysis, Maximum likelihood estimation Hierarchical modeling, Geospatial analysis.
 
-* Extracurricular activities include spending time with my husband, daughter, and two dogs exploring our new residence in Utrecht, Netherlands.
+* Extracurricular activities include spending time with my husband, daughter, newborn son, and two dogs exploring our new residence in Utrecht, Netherlands. 
 
 * Full CV available upon request
 
